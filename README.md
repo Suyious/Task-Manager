@@ -5,7 +5,8 @@
 To get started make the application with the following commands:
 ```sh
 make app
-./task.out <command>
+chmod +x task.sh
+./task.sh <command>
 
 ```
 
